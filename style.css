@@ -1,0 +1,37 @@
+#binary{
+  display: inline;
+  color: blue;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+#display{
+  display: inline;
+  white-space: pre-wrap;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  overflow:scroll;
+}
+
+
+th, td {
+  padding: 5px;
+  border: 1px solid;
+}
+
+table{
+  display: inline;
+  margin: 5px;
+  font-size: 12px;
+  mfont-weight: bold;
+}
+
+#mainDiv{
+  white-space: nowrap;
+  overflow:scroll;
+}
+
+.state{
+  color: red;
+}
+
